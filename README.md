@@ -19,17 +19,17 @@ Example of use :
 
 ```$ holidates belgium```
 
-2020-01-01 : New Year's Day
-2020-04-12 : Easter Sunday
-2020-04-13 : Easter Monday
-2020-05-01 : Labour Day
-2020-05-21 : Ascension Day
-2020-06-01 : Whit Monday
-2020-07-21 : Belgian National Day
-2020-08-15 : Assumption Day
-2020-11-01 : All Saints' Day
-2020-11-11 : Armistice Day
-2020-12-25 : Christmas Day
+>2020-01-01 : New Year's Day
+>2020-04-12 : Easter Sunday
+>2020-04-13 : Easter Monday
+>2020-05-01 : Labour Day
+>2020-05-21 : Ascension Day
+>2020-06-01 : Whit Monday
+>2020-07-21 : Belgian National Day
+>2020-08-15 : Assumption Day
+>2020-11-01 : All Saints' Day
+>2020-11-11 : Armistice Day
+>2020-12-25 : Christmas Day
 
 
 ###If holidates is launched without parameter, user will be asking to give a country name by prompt message
