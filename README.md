@@ -1,24 +1,21 @@
-NPM : @t0m1337/holidates
+# Node.JS: Holidates CLI
+- NPM : [@t0m1337/holidates](https://www.npmjs.com/package/@t0m1337/holidates)
+- Version : 1.0.0
+- Author : Thomas Dussart
 
-Version : 1.0.0
 
-Author : Thomas Dussart
-
-Description
+### Description
 A command line tool that take a country name as parameter and give the public holiday of the country for the current year
 
-Installation
+### Installation
+> $ npm install @t0m1337/holidates
 
-```$ npm install @t0m1337/holidates```
+### How to use
+> $ holidates [country-name]
 
-How to use
-
-```$ holidates [country-name]```
-
-Example of use :
-
-```$ holidates belgium```
-
+### Example of use :
+> $ holidates Belgium
+```
 >2020-01-01 : New Year's Day
 >2020-04-12 : Easter Sunday
 >2020-04-13 : Easter Monday
@@ -30,7 +27,7 @@ Example of use :
 >2020-11-01 : All Saints' Day
 >2020-11-11 : Armistice Day
 >2020-12-25 : Christmas Day
-
+```
 
 ###If holidates is launched without parameter, user will be asking to give a country name by prompt message
 
