@@ -4,18 +4,19 @@ Version : 1.0.0
 
 Author : Thomas Dussart
 
-My first tool, with Node.JS
-
 Description
 A command line tool that take a country name as parameter and give the public holiday of the country for the current year
 
 Installation
+
 ```$ npm install @t0m1337/holidates```
 
 How to use
+
 ```$ holidates [country-name]```
 
 Example of use :
+
 ```$ holidates belgium```
 
 2020-01-01 : New Year's Day
@@ -36,7 +37,11 @@ Example of use :
 #Tools
 
 NPM : [country-list](https://www.npmjs.com/package/country-list)
+
 NPM : [axios](https://www.npmjs.com/package/axios)
+
 NPM : [readlineSync](https://www.npmjs.com/package/readline-sync)
+
 NPM : [Chalk](https://www.npmjs.com/package/chalk)
+
 NPM : [Ora](https://www.npmjs.com/package/ora)
