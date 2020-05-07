@@ -1,6 +1,6 @@
 {
   "name": "@t0m1337/holidates",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "bin": {
     "holidates": "./index.js"
   },
@@ -21,7 +21,10 @@
   "homepage": "https://github.com/thomasdussart/01a-cli-nager#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "chalk": "^4.0.0",
     "country-list": "^2.2.0",
-    "ora": "^4.0.4"
+    "figlet": "^1.4.0",
+    "ora": "^4.0.4",
+    "readline-sync": "^1.4.10"
   }
 }
