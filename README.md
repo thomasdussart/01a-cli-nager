@@ -1,4 +1,4 @@
-# Node.JS: Holidates CLI
+# Node.JS: Holidates
 - NPM : [@t0m1337/holidates](https://www.npmjs.com/package/@t0m1337/holidates)
 - Version : 1.0.0
 - Author : Thomas Dussart
