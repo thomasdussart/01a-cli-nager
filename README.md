@@ -1,8 +1,11 @@
-
 NPM : @t0m1337/holidates
+
 Version : 1.0.0
+
 Author : Thomas Dussart
+
 My first tool, with Node.JS
+
 Description
 A command line tool that take a country name as parameter and give the public holiday of the country for the current year
 
