@@ -1,0 +1,27 @@
+{
+  "name": "@t0m1337/holidates",
+  "version": "0.0.1",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "description": "Get the holidays for a specified country and year in command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasdussart/01a-cli-nager"
+  },
+  "author": "Thomas Dussart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasdussart/01a-cli-nager/issues"
+  },
+  "homepage": "https://github.com/thomasdussart/01a-cli-nager#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-list": "^2.2.0",
+    "ora": "^4.0.4"
+  }
+}
